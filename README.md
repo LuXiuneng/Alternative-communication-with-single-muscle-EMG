@@ -13,5 +13,8 @@ ALS, also known as amyotrophic lateral sclerosis, is a disease causes the death 
 - Tommaso Cemmi
 
 ## Demo
-Here's the GUI of our design
+Here's the GUI of our design: the top part is the word output, the left part is the instruction code for each letter. After several words are inputted, the "Suggesting list" will appear several words.
 ![](figure.png)
+
+Here's the demo vedio:
+[![Ve458 project Demo](figure1.jpg)](https://youtu.be/3W0Jj8fJ-mE)
