@@ -14,4 +14,4 @@ ALS, also known as amyotrophic lateral sclerosis, is a disease causes the death 
 
 ## Demo
 Here's the GUI of our design
-![](figure1.png)
+![](figure.png)
