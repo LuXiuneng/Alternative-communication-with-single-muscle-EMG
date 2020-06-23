@@ -12,7 +12,7 @@ ALS, also known as amyotrophic lateral sclerosis, is a disease causes the death 
 - Xiuneng Lu ([@lUxIUNENG](https://github.com/LuXiuneng))
 - Junwei Lin
 - Yuxuan Wang
-- Tommaso Cemmi
+- Tommaso
 
 ## Functions
 - Transfer one single EMG Signal into words & sentences
